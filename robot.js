@@ -1,7 +1,7 @@
-import * as THREE from '/robot/three.module.js';
-import { TrackballControls } from '/robot/trackBall.js';
-import { OBJLoader } from '/robot/OBJLoader.js';
-import { MTLLoader } from '/robot/MTLLoader.js';
+import * as THREE from '/libs/three.module.js';
+import { TrackballControls } from '/libs/trackBall.js';
+import { OBJLoader } from '/libs/OBJLoader.js';
+import { MTLLoader } from '/libs/MTLLoader.js';
 
 let renderer;
 let scene;
